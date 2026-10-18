@@ -1,0 +1,13 @@
+{
+  "android": {
+    "latest_version": "1.0.5",
+    "min_version": "1.0.0",
+    "store_url": "https://play.google.com/store/apps/details?id=com.abrossit.memesound.board.meme_soundboard_app_v2"
+  },
+  "ios": {
+    "latest_version": "1.0.5",
+    "min_version": "1.0.0",
+    "store_url": ""
+  },
+  "message": "New memes, new features and fewer bugs. Update now! 🔊"
+}
