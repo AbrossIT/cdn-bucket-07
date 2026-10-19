@@ -114,7 +114,7 @@
       "title": "Cid teri ma ki chut",
       "sound": "sounds/737-cid-teri-ma-ki-chut.m4a",
       "image": "images/737-cid-teri-ma-ki-chut.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -573,7 +573,7 @@
       "title": "CID CHUT",
       "sound": "sounds/228-cid-chut.m4a",
       "image": "images/228-cid-chut.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -591,7 +591,7 @@
       "title": "Bhosda",
       "sound": "sounds/1675-bhosda.m4a",
       "image": "images/1675-bhosda.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -1293,7 +1293,7 @@
       "title": "Ye le laude",
       "sound": "sounds/1054-ye-le-laude.m4a",
       "image": "images/1054-ye-le-laude.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -1770,7 +1770,7 @@
       "title": "chup tmkc",
       "sound": "sounds/889-chup-tmkc.m4a",
       "image": "images/889-chup-tmkc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -1905,7 +1905,7 @@
       "title": "Bhosdike madarchod been k loray - roadies",
       "sound": "sounds/379-bhosdike-madarchod-been-k-loray-roadies.m4a",
       "image": "images/379-bhosdike-madarchod-been-k-loray-roadies.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -1923,7 +1923,7 @@
       "title": "laude lag gaye",
       "sound": "sounds/1007-laude-lag-gaye.m4a",
       "image": "images/1007-laude-lag-gaye.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -2139,7 +2139,7 @@
       "title": "Cid BC",
       "sound": "sounds/658-cid-bc.m4a",
       "image": "images/658-cid-bc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -2175,7 +2175,7 @@
       "title": "oh hell naw man wtf man",
       "sound": "sounds/us/477-oh-hell-naw-man-wtf-man.m4a",
       "image": "images/us/477-oh-hell-naw-man-wtf-man.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -2274,7 +2274,7 @@
       "title": "WTF BOOM!",
       "sound": "sounds/us/177-wtf-boom.m4a",
       "image": "images/us/177-wtf-boom.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -2850,7 +2850,7 @@
       "title": "Why are you gay?",
       "sound": "sounds/us/810-why-are-you-gay.m4a",
       "image": "images/us/810-why-are-you-gay.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -3021,7 +3021,7 @@
       "title": "Chodu cid (tmkc)",
       "sound": "sounds/298-chodu-cid-tmkc.m4a",
       "image": "images/298-chodu-cid-tmkc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -3660,7 +3660,7 @@
       "title": "ayo wtf",
       "sound": "sounds/us/762-ayo-wtf.m4a",
       "image": "images/us/762-ayo-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -4290,7 +4290,7 @@
       "title": "Sexy back ZRT4",
       "sound": "sounds/us/561-sexy-back-zrt4.m4a",
       "image": "images/us/561-sexy-back-zrt4.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -4353,7 +4353,7 @@
       "title": "JonTron - What? WTF",
       "sound": "sounds/944-jontron-what-wtf.m4a",
       "image": "images/944-jontron-what-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -4623,7 +4623,7 @@
       "title": "teri maa ki_teri behen ki_haath be",
       "sound": "sounds/382-teri-maa-ki-teri-behen-ki-haath-be.m4a",
       "image": "images/382-teri-maa-ki-teri-behen-ki-haath-be.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -4929,7 +4929,7 @@
       "title": "CHODU CID (AAA)",
       "sound": "sounds/403-chodu-cid-aaa.m4a",
       "image": "images/403-chodu-cid-aaa.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -5271,7 +5271,7 @@
       "title": "Sexy back ZRT4",
       "sound": "sounds/us/563-sexy-back-zrt4.m4a",
       "image": "images/us/563-sexy-back-zrt4.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -5487,7 +5487,7 @@
       "title": "Modi ji bkl",
       "sound": "sounds/90-modi-ji-bkl.m4a",
       "image": "images/90-modi-ji-bkl.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -5856,7 +5856,7 @@
       "title": "chodu cid(teri maiya)",
       "sound": "sounds/343-chodu-cid-teri-maiya.m4a",
       "image": "images/343-chodu-cid-teri-maiya.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -6612,7 +6612,7 @@
       "title": "punjabi tmkc",
       "sound": "sounds/916-punjabi-tmkc.m4a",
       "image": "images/916-punjabi-tmkc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -6648,7 +6648,7 @@
       "title": "Ooo bhosdi wale bhaiya",
       "sound": "sounds/1576-ooo-bhosdi-wale-bhaiya.m4a",
       "image": "images/1576-ooo-bhosdi-wale-bhaiya.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -6765,7 +6765,7 @@
       "title": "Why are you gay?",
       "sound": "sounds/us/809-why-are-you-gay.m4a",
       "image": "images/us/809-why-are-you-gay.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Trending"
     },
@@ -8223,7 +8223,7 @@
       "title": "Pakad MC",
       "sound": "sounds/321-pakad-mc.m4a",
       "image": "images/321-pakad-mc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -8565,7 +8565,7 @@
       "title": "cid madarchod admi",
       "sound": "sounds/962-cid-madarchod-admi.m4a",
       "image": "images/962-cid-madarchod-admi.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -8907,7 +8907,7 @@
       "title": "bol na madarchod",
       "sound": "sounds/383-bol-na-madarchod.m4a",
       "image": "images/383-bol-na-madarchod.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -9771,7 +9771,7 @@
       "title": "chodu cid pyaar",
       "sound": "sounds/696-chodu-cid-pyaar.m4a",
       "image": "images/696-chodu-cid-pyaar.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -10473,7 +10473,7 @@
       "title": "Teri gand 120w se",
       "sound": "sounds/683-teri-gand-120w-se.m4a",
       "image": "images/683-teri-gand-120w-se.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -10671,7 +10671,7 @@
       "title": "chodu CID",
       "sound": "sounds/191-chodu-cid.m4a",
       "image": "images/191-chodu-cid.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -10698,7 +10698,7 @@
       "title": "Mar gya madarchod",
       "sound": "sounds/854-mar-gya-madarchod.m4a",
       "image": "images/854-mar-gya-madarchod.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -11175,7 +11175,7 @@
       "title": "Abe tu thoda sa bkl hai kya",
       "sound": "sounds/1231-abe-tu-thoda-sa-bkl-hai-kya.m4a",
       "image": "images/1231-abe-tu-thoda-sa-bkl-hai-kya.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -11751,7 +11751,7 @@
       "title": "Aaiye dekhte hai maza aayega behenchod",
       "sound": "sounds/434-aaiye-dekhte-hai-maza-aayega-behenchod.m4a",
       "image": "images/434-aaiye-dekhte-hai-maza-aayega-behenchod.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -12093,7 +12093,7 @@
       "title": "Amitabh Bachchan teri maa ka vosda",
       "sound": "sounds/603-amitabh-bachchan-teri-maa-ka-vosda.m4a",
       "image": "images/603-amitabh-bachchan-teri-maa-ka-vosda.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -12912,7 +12912,7 @@
       "title": "bhosdike madarchod",
       "sound": "sounds/1154-bhosdike-madarchod.m4a",
       "image": "images/1154-bhosdike-madarchod.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -12984,7 +12984,7 @@
       "title": "Whoooooo yeleeee laudeeee",
       "sound": "sounds/82-whoooooo-yeleeee-laudeeee.m4a",
       "image": "images/82-whoooooo-yeleeee-laudeeee.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -13308,7 +13308,7 @@
       "title": "Ye gareeb iski mkc",
       "sound": "sounds/831-ye-gareeb-iski-mkc.m4a",
       "image": "images/831-ye-gareeb-iski-mkc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -13596,7 +13596,7 @@
       "title": "Kyu re madarchod cid",
       "sound": "sounds/56-kyu-re-madarchod-cid.m4a",
       "image": "images/56-kyu-re-madarchod-cid.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -13713,7 +13713,7 @@
       "title": "bakchodi mat kar laude",
       "sound": "sounds/818-bakchodi-mat-kar-laude.m4a",
       "image": "images/818-bakchodi-mat-kar-laude.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -13974,7 +13974,7 @@
       "title": "Uth jaa bkl",
       "sound": "sounds/936-uth-jaa-bkl.m4a",
       "image": "images/936-uth-jaa-bkl.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14109,7 +14109,7 @@
       "title": "chodu cid(saali)",
       "sound": "sounds/271-chodu-cid-saali.m4a",
       "image": "images/271-chodu-cid-saali.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14244,7 +14244,7 @@
       "title": "CHODU CID (JHAAT)",
       "sound": "sounds/527-chodu-cid-jhaat.m4a",
       "image": "images/527-chodu-cid-jhaat.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14496,7 +14496,7 @@
       "title": "lund 10 inch lamba",
       "sound": "sounds/309-lund-10-inch-lamba.m4a",
       "image": "images/309-lund-10-inch-lamba.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14622,7 +14622,7 @@
       "title": "new chodu cid song",
       "sound": "sounds/1753-new-chodu-cid-song.m4a",
       "image": "images/1753-new-chodu-cid-song.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14712,7 +14712,7 @@
       "title": "Ek Gand pe Repta mara n Sarak pe Hagta firega",
       "sound": "sounds/86-ek-gand-pe-repta-mara-n-sarak-pe-hagta-firega.m4a",
       "image": "images/86-ek-gand-pe-repta-mara-n-sarak-pe-hagta-firega.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14856,7 +14856,7 @@
       "title": "Subha Subha BC Tum Log Deepak Kalal",
       "sound": "sounds/891-subha-subha-bc-tum-log-deepak-kalal.m4a",
       "image": "images/891-subha-subha-bc-tum-log-deepak-kalal.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -14937,7 +14937,7 @@
       "title": "le re lund ke",
       "sound": "sounds/741-le-re-lund-ke.m4a",
       "image": "images/741-le-re-lund-ke.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -15099,7 +15099,7 @@
       "title": "Aare madarchodo",
       "sound": "sounds/791-aare-madarchodo.m4a",
       "image": "images/791-aare-madarchodo.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -15225,7 +15225,7 @@
       "title": "Cid ( lode ak rspte)",
       "sound": "sounds/1078-cid-lode-ak-rspte.m4a",
       "image": "images/1078-cid-lode-ak-rspte.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -15252,7 +15252,7 @@
       "title": "Cid Ghodi banakar chodu",
       "sound": "sounds/817-cid-ghodi-banakar-chodu.m4a",
       "image": "images/817-cid-ghodi-banakar-chodu.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -15630,7 +15630,7 @@
       "title": "Lund pakad ke tarazu ki tarah cid",
       "sound": "sounds/84-lund-pakad-ke-tarazu-ki-tarah-cid.m4a",
       "image": "images/84-lund-pakad-ke-tarazu-ki-tarah-cid.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -15927,7 +15927,7 @@
       "title": "Tori mai ke chodo",
       "sound": "sounds/1425-tori-mai-ke-chodo.m4a",
       "image": "images/1425-tori-mai-ke-chodo.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -15999,7 +15999,7 @@
       "title": "Cid ACP MC",
       "sound": "sounds/71-cid-acp-mc.m4a",
       "image": "images/71-cid-acp-mc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -16062,7 +16062,7 @@
       "title": "KUTTE KI GAND",
       "sound": "sounds/1652-kutte-ki-gand.m4a",
       "image": "images/1652-kutte-ki-gand.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -16188,7 +16188,7 @@
       "title": "chodu cid (ek baar)",
       "sound": "sounds/440-chodu-cid-ek-baar.m4a",
       "image": "images/440-chodu-cid-ek-baar.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -16557,7 +16557,7 @@
       "title": "Tmkc Mahavirwa wala",
       "sound": "sounds/162-tmkc-mahavirwa-wala.m4a",
       "image": "images/162-tmkc-mahavirwa-wala.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -16764,7 +16764,7 @@
       "title": "Chal bhosdike",
       "sound": "sounds/1555-chal-bhosdike.m4a",
       "image": "images/1555-chal-bhosdike.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -16791,7 +16791,7 @@
       "title": "miss randi please pick up the call",
       "sound": "sounds/1367-miss-randi-please-pick-up-the-call.m4a",
       "image": "images/1367-miss-randi-please-pick-up-the-call.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -17025,7 +17025,7 @@
       "title": "Arpit bala bkl gussa aa jata hai",
       "sound": "sounds/1488-arpit-bala-bkl-gussa-aa-jata-hai.m4a",
       "image": "images/1488-arpit-bala-bkl-gussa-aa-jata-hai.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -17511,7 +17511,7 @@
       "title": "Lere lund ke",
       "sound": "sounds/1281-lere-lund-ke.m4a",
       "image": "images/1281-lere-lund-ke.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -17970,7 +17970,7 @@
       "title": "LODA PAKAD",
       "sound": "sounds/1777-loda-pakad.m4a",
       "image": "images/1777-loda-pakad.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -18105,7 +18105,7 @@
       "title": "chodu cid (tum ek)",
       "sound": "sounds/278-chodu-cid-tum-ek.m4a",
       "image": "images/278-chodu-cid-tum-ek.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -18402,7 +18402,7 @@
       "title": "sexy",
       "sound": "sounds/1579-sexy.m4a",
       "image": "images/1579-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -18591,7 +18591,7 @@
       "title": "ma ka bhosda aag",
       "sound": "sounds/151-ma-ka-bhosda-aag.m4a",
       "image": "images/151-ma-ka-bhosda-aag.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -19095,7 +19095,7 @@
       "title": "chal bsdk",
       "sound": "sounds/1309-chal-bsdk.m4a",
       "image": "images/1309-chal-bsdk.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -19167,7 +19167,7 @@
       "title": "Are teri maa ka bhosda",
       "sound": "sounds/455-are-teri-maa-ka-bhosda.m4a",
       "image": "images/455-are-teri-maa-ka-bhosda.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -19185,7 +19185,7 @@
       "title": "Lavden Bhojyam",
       "sound": "sounds/621-lavden-bhojyam.m4a",
       "image": "images/621-lavden-bhojyam.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -19653,7 +19653,7 @@
       "title": "Chodu CID (Pakad le)",
       "sound": "sounds/263-chodu-cid-pakad-le.m4a",
       "image": "images/263-chodu-cid-pakad-le.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -20040,7 +20040,7 @@
       "title": "Arpit bala bkl",
       "sound": "sounds/1527-arpit-bala-bkl.m4a",
       "image": "images/1527-arpit-bala-bkl.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -20103,7 +20103,7 @@
       "title": "Teri maki chus CID",
       "sound": "sounds/189-teri-maki-chus-cid.m4a",
       "image": "images/189-teri-maki-chus-cid.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -20157,7 +20157,7 @@
       "title": "Teri maa ka bosda fat jaga",
       "sound": "sounds/230-teri-maa-ka-bosda-fat-jaga.m4a",
       "image": "images/230-teri-maa-ka-bosda-fat-jaga.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -20877,7 +20877,7 @@
       "title": "Kya cheda bhosdi",
       "sound": "sounds/141-kya-cheda-bhosdi.m4a",
       "image": "images/141-kya-cheda-bhosdi.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -21462,7 +21462,7 @@
       "title": "pagal h bsdk carry",
       "sound": "sounds/1025-pagal-h-bsdk-carry.m4a",
       "image": "images/1025-pagal-h-bsdk-carry.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -22182,7 +22182,7 @@
       "title": "Chala Jaa bhosdike",
       "sound": "sounds/783-chala-jaa-bhosdike.m4a",
       "image": "images/783-chala-jaa-bhosdike.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -22245,7 +22245,7 @@
       "title": "teri gand mari",
       "sound": "sounds/262-teri-gand-mari.m4a",
       "image": "images/262-teri-gand-mari.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -23577,7 +23577,7 @@
       "title": "CHODU CID(CHUT)",
       "sound": "sounds/209-chodu-cid-chut.m4a",
       "image": "images/209-chodu-cid-chut.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -23784,7 +23784,7 @@
       "title": "CID tum bkl (F)",
       "sound": "sounds/370-cid-tum-bkl-f.m4a",
       "image": "images/370-cid-tum-bkl-f.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -23802,7 +23802,7 @@
       "title": "gand phat gaya",
       "sound": "sounds/1089-gand-phat-gaya.m4a",
       "image": "images/1089-gand-phat-gaya.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -23910,7 +23910,7 @@
       "title": "phir Teri Maiya chodta hu CID",
       "sound": "sounds/110-phir-teri-maiya-chodta-hu-cid.m4a",
       "image": "images/110-phir-teri-maiya-chodta-hu-cid.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -24423,7 +24423,7 @@
       "title": "chodu cid rapta",
       "sound": "sounds/1130-chodu-cid-rapta.m4a",
       "image": "images/1130-chodu-cid-rapta.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -24504,7 +24504,7 @@
       "title": "Chala ja bsdk",
       "sound": "sounds/420-chala-ja-bsdk.m4a",
       "image": "images/420-chala-ja-bsdk.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Trending"
     },
@@ -25791,7 +25791,7 @@
       "title": "I'm Gay IDubbbz",
       "sound": "sounds/gb/Anime & Manga/221-i-m-gay-idubbbz.m4a",
       "image": "images/gb/Anime & Manga/221-i-m-gay-idubbbz.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Anime"
     },
@@ -26484,7 +26484,7 @@
       "title": "BEANS WTF",
       "sound": "sounds/gb/Anime & Manga/300-beans-wtf.m4a",
       "image": "images/gb/Anime & Manga/300-beans-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Anime"
     },
@@ -30021,7 +30021,7 @@
       "title": "naruto sexy",
       "sound": "sounds/gb/Anime & Manga/702-naruto-sexy.m4a",
       "image": "images/gb/Anime & Manga/702-naruto-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Anime"
     },
@@ -30381,7 +30381,7 @@
       "title": "anime boobs",
       "sound": "sounds/gb/Anime & Manga/743-anime-boobs.m4a",
       "image": "images/gb/Anime & Manga/743-anime-boobs.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Anime"
     },
@@ -31056,7 +31056,7 @@
       "title": "Suicide Mickey laugh",
       "sound": "sounds/gb/Anime & Manga/819-suicide-mickey-laugh.m4a",
       "image": "images/gb/Anime & Manga/819-suicide-mickey-laugh.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Anime"
     },
@@ -32811,7 +32811,7 @@
       "title": "*Gay grunting noises* - Shigaraki",
       "sound": "sounds/gb/Anime & Manga/1016-gay-grunting-noises-shigaraki.m4a",
       "image": "images/gb/Anime & Manga/1016-gay-grunting-noises-shigaraki.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Anime"
     },
@@ -42306,7 +42306,7 @@
       "title": "HAHA WTF WAS THAT",
       "sound": "sounds/gb/Games/1082-haha-wtf-was-that.m4a",
       "image": "images/gb/Games/1082-haha-wtf-was-that.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Games"
     },
@@ -44133,7 +44133,7 @@
       "title": "Halo Reach (Suicide)",
       "sound": "sounds/gb/Games/1287-halo-reach-suicide.m4a",
       "image": "images/gb/Games/1287-halo-reach-suicide.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Games"
     },
@@ -45195,7 +45195,7 @@
       "title": "Gay Luigi",
       "sound": "sounds/gb/Games/1406-gay-luigi.m4a",
       "image": "images/gb/Games/1406-gay-luigi.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Games"
     },
@@ -49254,7 +49254,7 @@
       "title": "shut up patrick stfu up",
       "sound": "sounds/gb/Hall of Fame/1237-shut-up-patrick-stfu-up.m4a",
       "image": "images/gb/Hall of Fame/1237-shut-up-patrick-stfu-up.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Hall of Fame"
     },
@@ -49299,7 +49299,7 @@
       "title": "Hah Gay!",
       "sound": "sounds/gb/Hall of Fame/1263-hah-gay.m4a",
       "image": "images/gb/Hall of Fame/1263-hah-gay.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Hall of Fame"
     },
@@ -50613,7 +50613,7 @@
       "title": "WTF is a kilometer",
       "sound": "sounds/gb/Hall of Fame/1736-wtf-is-a-kilometer.m4a",
       "image": "images/gb/Hall of Fame/1736-wtf-is-a-kilometer.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Hall of Fame"
     },
@@ -50883,7 +50883,7 @@
       "title": "Allahu akbar",
       "sound": "sounds/gb/Memes/279-allahu-akbar.m4a",
       "image": "images/gb/Memes/279-allahu-akbar.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -51027,7 +51027,7 @@
       "title": "suprise motherf***er",
       "sound": "sounds/gb/Memes/409-suprise-motherf-er.m4a",
       "image": "images/gb/Memes/409-suprise-motherf-er.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -52917,7 +52917,7 @@
       "title": "Aye Yo WTF",
       "sound": "sounds/gb/Memes/811-aye-yo-wtf.m4a",
       "image": "images/gb/Memes/811-aye-yo-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -53214,7 +53214,7 @@
       "title": "sexy and i know it",
       "sound": "sounds/gb/Memes/851-sexy-and-i-know-it.m4a",
       "image": "images/gb/Memes/851-sexy-and-i-know-it.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -56184,7 +56184,7 @@
       "title": "Wtf is that",
       "sound": "sounds/gb/Memes/1228-wtf-is-that.m4a",
       "image": "images/gb/Memes/1228-wtf-is-that.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -56220,7 +56220,7 @@
       "title": "What is that WTF is that",
       "sound": "sounds/gb/Memes/1232-what-is-that-wtf-is-that.m4a",
       "image": "images/gb/Memes/1232-what-is-that-wtf-is-that.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -57012,7 +57012,7 @@
       "title": "gordon ramsay kys",
       "sound": "sounds/gb/Memes/1330-gordon-ramsay-kys.m4a",
       "image": "images/gb/Memes/1330-gordon-ramsay-kys.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -58974,7 +58974,7 @@
       "title": "STFU YOU CUNΤ",
       "sound": "sounds/gb/Memes/1565-stfu-you-cun.m4a",
       "image": "images/gb/Memes/1565-stfu-you-cun.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -59208,7 +59208,7 @@
       "title": "EWWWWW WTF",
       "sound": "sounds/gb/Memes/1592-ewwwww-wtf.m4a",
       "image": "images/gb/Memes/1592-ewwwww-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Memes"
     },
@@ -61746,7 +61746,7 @@
       "title": "What, WTF.MP3",
       "sound": "sounds/gb/Movies/242-what-wtf-mp3.m4a",
       "image": "images/gb/Movies/242-what-wtf-mp3.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Movies"
     },
@@ -67254,7 +67254,7 @@
       "title": "I'm busy, stupid dick!",
       "sound": "sounds/gb/Movies/874-i-m-busy-stupid-dick.m4a",
       "image": "images/gb/Movies/874-i-m-busy-stupid-dick.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Movies"
     },
@@ -68442,7 +68442,7 @@
       "title": "Do what we tell you to do slut",
       "sound": "sounds/gb/Movies/1007-do-what-we-tell-you-to-do-slut.m4a",
       "image": "images/gb/Movies/1007-do-what-we-tell-you-to-do-slut.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Movies"
     },
@@ -69639,7 +69639,7 @@
       "title": "Dead Sexy",
       "sound": "sounds/gb/Movies/1142-dead-sexy.m4a",
       "image": "images/gb/Movies/1142-dead-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Movies"
     },
@@ -70332,7 +70332,7 @@
       "title": "Sexy Mann Austin Powers",
       "sound": "sounds/gb/Movies/1219-sexy-mann-austin-powers.m4a",
       "image": "images/gb/Movies/1219-sexy-mann-austin-powers.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Movies"
     },
@@ -71781,7 +71781,7 @@
       "title": "Who posted my nudes on Twitter",
       "sound": "sounds/gb/Music/194-who-posted-my-nudes-on-twitter.m4a",
       "image": "images/gb/Music/194-who-posted-my-nudes-on-twitter.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -73536,7 +73536,7 @@
       "title": "Eighteen Naked Cowboys",
       "sound": "sounds/gb/Music/410-eighteen-naked-cowboys.m4a",
       "image": "images/gb/Music/410-eighteen-naked-cowboys.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -73788,7 +73788,7 @@
       "title": "Allahu Akbar 2",
       "sound": "sounds/gb/Music/441-allahu-akbar-2.m4a",
       "image": "images/gb/Music/441-allahu-akbar-2.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -74094,7 +74094,7 @@
       "title": "Caillou en forme sexy",
       "sound": "sounds/gb/Music/476-caillou-en-forme-sexy.m4a",
       "image": "images/gb/Music/476-caillou-en-forme-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -74175,7 +74175,7 @@
       "title": "sexy nga on the beat mf",
       "sound": "sounds/gb/Music/485-sexy-nga-on-the-beat-mf.m4a",
       "image": "images/gb/Music/485-sexy-nga-on-the-beat-mf.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -74373,7 +74373,7 @@
       "title": "COME ON MOTHERF&amp;**&amp;RS",
       "sound": "sounds/gb/Music/508-come-on-motherf-amp-amp-rs.m4a",
       "image": "images/gb/Music/508-come-on-motherf-amp-amp-rs.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -75048,7 +75048,7 @@
       "title": "&quot;I like your boobs&quot;",
       "sound": "sounds/gb/Music/583-quot-i-like-your-boobs-quot.m4a",
       "image": "images/gb/Music/583-quot-i-like-your-boobs-quot.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -75552,7 +75552,7 @@
       "title": "Yeah! (SexyBack)",
       "sound": "sounds/gb/Music/641-yeah-sexyback.m4a",
       "image": "images/gb/Music/641-yeah-sexyback.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -78099,7 +78099,7 @@
       "title": "Marvin Gaye - Sexual Healing",
       "sound": "sounds/gb/Music/930-marvin-gaye-sexual-healing.m4a",
       "image": "images/gb/Music/930-marvin-gaye-sexual-healing.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -78261,7 +78261,7 @@
       "title": "wtf goin on",
       "sound": "sounds/gb/Music/948-wtf-goin-on.m4a",
       "image": "images/gb/Music/948-wtf-goin-on.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -78333,7 +78333,7 @@
       "title": "Merry Christmas MotherF´s",
       "sound": "sounds/gb/Music/956-merry-christmas-motherf-s.m4a",
       "image": "images/gb/Music/956-merry-christmas-motherf-s.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -78900,7 +78900,7 @@
       "title": "carti gay",
       "sound": "sounds/gb/Music/1020-carti-gay.m4a",
       "image": "images/gb/Music/1020-carti-gay.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -79629,7 +79629,7 @@
       "title": "who sexy",
       "sound": "sounds/gb/Music/1101-who-sexy.m4a",
       "image": "images/gb/Music/1101-who-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -80889,7 +80889,7 @@
       "title": "america F**K YEAH",
       "sound": "sounds/gb/Music/1242-america-f-k-yeah.m4a",
       "image": "images/gb/Music/1242-america-f-k-yeah.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -81762,7 +81762,7 @@
       "title": "WTF Richard?",
       "sound": "sounds/gb/Music/1340-wtf-richard.m4a",
       "image": "images/gb/Music/1340-wtf-richard.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -81996,7 +81996,7 @@
       "title": "kermit suicide",
       "sound": "sounds/gb/Music/1366-kermit-suicide.m4a",
       "image": "images/gb/Music/1366-kermit-suicide.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -82833,7 +82833,7 @@
       "title": "gay central cee",
       "sound": "sounds/gb/Music/1459-gay-central-cee.m4a",
       "image": "images/gb/Music/1459-gay-central-cee.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -82941,7 +82941,7 @@
       "title": "The Entertainer FUK",
       "sound": "sounds/gb/Music/1471-the-entertainer-fuk.m4a",
       "image": "images/gb/Music/1471-the-entertainer-fuk.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Music"
     },
@@ -86595,7 +86595,7 @@
       "title": "GAY FROGS ALEX JONES",
       "sound": "sounds/gb/Politics/158-gay-frogs-alex-jones.m4a",
       "image": "images/gb/Politics/158-gay-frogs-alex-jones.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Politics"
     },
@@ -86631,7 +86631,7 @@
       "title": "You Are Gay (Zenyatta)",
       "sound": "sounds/gb/Politics/162-you-are-gay-zenyatta.m4a",
       "image": "images/gb/Politics/162-you-are-gay-zenyatta.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Politics"
     },
@@ -88008,7 +88008,7 @@
       "title": "FEMALE STFU",
       "sound": "sounds/gb/Politics/315-female-stfu.m4a",
       "image": "images/gb/Politics/315-female-stfu.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Politics"
     },
@@ -88152,7 +88152,7 @@
       "title": "Knock knock MF's",
       "sound": "sounds/gb/Politics/331-knock-knock-mf-s.m4a",
       "image": "images/gb/Politics/331-knock-knock-mf-s.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Politics"
     },
@@ -90546,7 +90546,7 @@
       "title": "STFU Ginger Pubes",
       "sound": "sounds/gb/Pranks/101-stfu-ginger-pubes.m4a",
       "image": "images/gb/Pranks/101-stfu-ginger-pubes.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -91194,7 +91194,7 @@
       "title": "Scammer wtf are you doing joker",
       "sound": "sounds/gb/Pranks/182-scammer-wtf-are-you-doing-joker.m4a",
       "image": "images/gb/Pranks/182-scammer-wtf-are-you-doing-joker.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -92481,7 +92481,7 @@
       "title": "Gorilla tag suicide two",
       "sound": "sounds/gb/Pranks/333-gorilla-tag-suicide-two.m4a",
       "image": "images/gb/Pranks/333-gorilla-tag-suicide-two.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -92994,7 +92994,7 @@
       "title": "Gorilla tag suicide",
       "sound": "sounds/gb/Pranks/392-gorilla-tag-suicide.m4a",
       "image": "images/gb/Pranks/392-gorilla-tag-suicide.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -93282,7 +93282,7 @@
       "title": "Gay--echo---saturated",
       "sound": "sounds/gb/Pranks/424-gay-echo-saturated.m4a",
       "image": "images/gb/Pranks/424-gay-echo-saturated.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -95010,7 +95010,7 @@
       "title": "run for cover you dirty slut",
       "sound": "sounds/gb/Pranks/623-run-for-cover-you-dirty-slut.m4a",
       "image": "images/gb/Pranks/623-run-for-cover-you-dirty-slut.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -96567,7 +96567,7 @@
       "title": "0 never gonna give a f**k",
       "sound": "sounds/gb/Pranks/797-0-never-gonna-give-a-f-k.m4a",
       "image": "images/gb/Pranks/797-0-never-gonna-give-a-f-k.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -96702,7 +96702,7 @@
       "title": "retard? waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "sound": "sounds/gb/Pranks/812-retard-waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.m4a",
       "image": "images/gb/Pranks/812-retard-waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -98556,7 +98556,7 @@
       "title": "This mf cheating",
       "sound": "sounds/gb/Pranks/1021-this-mf-cheating.m4a",
       "image": "images/gb/Pranks/1021-this-mf-cheating.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Pranks"
     },
@@ -100266,7 +100266,7 @@
       "title": "Gordon Ramsay says: KILL YOURSELF",
       "sound": "sounds/gb/Reactions/235-gordon-ramsay-says-kill-yourself.m4a",
       "image": "images/gb/Reactions/235-gordon-ramsay-says-kill-yourself.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -100878,7 +100878,7 @@
       "title": "Sexy Ooh La La",
       "sound": "sounds/gb/Reactions/307-sexy-ooh-la-la.m4a",
       "image": "images/gb/Reactions/307-sexy-ooh-la-la.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -101094,7 +101094,7 @@
       "title": "WTF they are doing Trump",
       "sound": "sounds/gb/Reactions/333-wtf-they-are-doing-trump.m4a",
       "image": "images/gb/Reactions/333-wtf-they-are-doing-trump.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -101742,7 +101742,7 @@
       "title": "Fukt Up Big Time",
       "sound": "sounds/gb/Reactions/406-fukt-up-big-time.m4a",
       "image": "images/gb/Reactions/406-fukt-up-big-time.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -102921,7 +102921,7 @@
       "title": "Who says I'm gay?",
       "sound": "sounds/gb/Reactions/541-who-says-i-m-gay.m4a",
       "image": "images/gb/Reactions/541-who-says-i-m-gay.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -103308,7 +103308,7 @@
       "title": "Fayz Big Dickz",
       "sound": "sounds/gb/Reactions/586-fayz-big-dickz.m4a",
       "image": "images/gb/Reactions/586-fayz-big-dickz.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -104190,7 +104190,7 @@
       "title": "Yourjustabitchgoggins",
       "sound": "sounds/gb/Reactions/684-yourjustabitchgoggins.m4a",
       "image": "images/gb/Reactions/684-yourjustabitchgoggins.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -104541,7 +104541,7 @@
       "title": "Abe lawde",
       "sound": "sounds/gb/Reactions/723-abe-lawde.m4a",
       "image": "images/gb/Reactions/723-abe-lawde.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -104883,7 +104883,7 @@
       "title": "JoJo no Kimyou na Bouken - Son of a Bitch!!!",
       "sound": "sounds/gb/Reactions/761-jojo-no-kimyou-na-bouken-son-of-a-bitch.m4a",
       "image": "images/gb/Reactions/761-jojo-no-kimyou-na-bouken-son-of-a-bitch.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -105288,7 +105288,7 @@
       "title": "stfu-",
       "sound": "sounds/gb/Reactions/806-stfu.m4a",
       "image": "images/gb/Reactions/806-stfu.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -106251,7 +106251,7 @@
       "title": "Hold up-wtf is this",
       "sound": "sounds/gb/Reactions/913-hold-up-wtf-is-this.m4a",
       "image": "images/gb/Reactions/913-hold-up-wtf-is-this.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Reactions"
     },
@@ -112119,7 +112119,7 @@
       "title": "What Up Biatch",
       "sound": "sounds/gb/Sound Effects/1079-what-up-biatch.m4a",
       "image": "images/gb/Sound Effects/1079-what-up-biatch.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "SFX"
     },
@@ -115080,7 +115080,7 @@
       "title": "YOU BITCH!!",
       "sound": "sounds/gb/Sound Effects/1420-you-bitch.m4a",
       "image": "images/gb/Sound Effects/1420-you-bitch.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "SFX"
     },
@@ -122127,7 +122127,7 @@
       "title": "Sex-jumpscare",
       "sound": "sounds/gb/Sports/556-sex-jumpscare.m4a",
       "image": "images/gb/Sports/556-sex-jumpscare.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Sports"
     },
@@ -124215,7 +124215,7 @@
       "title": "one piece wtf",
       "sound": "sounds/gb/Television/232-one-piece-wtf.m4a",
       "image": "images/gb/Television/232-one-piece-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TV"
     },
@@ -124557,7 +124557,7 @@
       "title": "You are gay [AFRICAN]",
       "sound": "sounds/gb/Television/271-you-are-gay-african.m4a",
       "image": "images/gb/Television/271-you-are-gay-african.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TV"
     },
@@ -125628,7 +125628,7 @@
       "title": "naked grandma",
       "sound": "sounds/gb/Television/390-naked-grandma.m4a",
       "image": "images/gb/Television/390-naked-grandma.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TV"
     },
@@ -126447,7 +126447,7 @@
       "title": "Smiling Friends - We Are So F***ked",
       "sound": "sounds/gb/Television/482-smiling-friends-we-are-so-f-ked.m4a",
       "image": "images/gb/Television/482-smiling-friends-we-are-so-f-ked.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TV"
     },
@@ -127923,7 +127923,7 @@
       "title": "Randy Marsh - Oh, hey, f**k you",
       "sound": "sounds/gb/Television/647-randy-marsh-oh-hey-f-k-you.m4a",
       "image": "images/gb/Television/647-randy-marsh-oh-hey-f-k-you.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TV"
     },
@@ -128895,7 +128895,7 @@
       "title": "Rupaul KYS",
       "sound": "sounds/gb/Television/756-rupaul-kys.m4a",
       "image": "images/gb/Television/756-rupaul-kys.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TV"
     },
@@ -132315,7 +132315,7 @@
       "title": "Allah Akbar!!!",
       "sound": "sounds/gb/Tiktok Trends/103-allah-akbar.m4a",
       "image": "images/gb/Tiktok Trends/103-allah-akbar.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -132675,7 +132675,7 @@
       "title": "jet 2 holiday fuk off",
       "sound": "sounds/gb/Tiktok Trends/147-jet-2-holiday-fuk-off.m4a",
       "image": "images/gb/Tiktok Trends/147-jet-2-holiday-fuk-off.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -132693,7 +132693,7 @@
       "title": "wtf is kilometer",
       "sound": "sounds/gb/Tiktok Trends/149-wtf-is-kilometer.m4a",
       "image": "images/gb/Tiktok Trends/149-wtf-is-kilometer.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -134466,7 +134466,7 @@
       "title": "Im naked with my kids",
       "sound": "sounds/gb/Tiktok Trends/350-im-naked-with-my-kids.m4a",
       "image": "images/gb/Tiktok Trends/350-im-naked-with-my-kids.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -137274,7 +137274,7 @@
       "title": "mmm bitchㅤㅤㅤ",
       "sound": "sounds/gb/Tiktok Trends/663-mmm-bitch.m4a",
       "image": "images/gb/Tiktok Trends/663-mmm-bitch.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -137751,7 +137751,7 @@
       "title": "Hitlers Top Guy",
       "sound": "sounds/gb/Tiktok Trends/716-hitlers-top-guy.m4a",
       "image": "images/gb/Tiktok Trends/716-hitlers-top-guy.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -139479,7 +139479,7 @@
       "title": "teri maa ki ch*t sale carry minati",
       "sound": "sounds/gb/Tiktok Trends/909-teri-maa-ki-ch-t-sale-carry-minati.m4a",
       "image": "images/gb/Tiktok Trends/909-teri-maa-ki-ch-t-sale-carry-minati.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -141459,7 +141459,7 @@
       "title": "Gaey as f**k - LC Sign (Tony)",
       "sound": "sounds/gb/Tiktok Trends/1131-gaey-as-f-k-lc-sign-tony.m4a",
       "image": "images/gb/Tiktok Trends/1131-gaey-as-f-k-lc-sign-tony.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -141999,7 +141999,7 @@
       "title": "hulk tiktok sound wtf",
       "sound": "sounds/gb/Tiktok Trends/1191-hulk-tiktok-sound-wtf.m4a",
       "image": "images/gb/Tiktok Trends/1191-hulk-tiktok-sound-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "TikTok"
     },
@@ -144663,7 +144663,7 @@
       "title": "smth and stfu, thanks for the support",
       "sound": "sounds/gb/Viral/342-smth-and-stfu-thanks-for-the-support.m4a",
       "image": "images/gb/Viral/342-smth-and-stfu-thanks-for-the-support.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -145545,7 +145545,7 @@
       "title": "f**k! owie! aaaaaaaaaaaaaaaaaah!",
       "sound": "sounds/gb/Viral/446-f-k-owie-aaaaaaaaaaaaaaaaaah.m4a",
       "image": "images/gb/Viral/446-f-k-owie-aaaaaaaaaaaaaaaaaah.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -145599,7 +145599,7 @@
       "title": "So who is gay?",
       "sound": "sounds/gb/Viral/453-so-who-is-gay.m4a",
       "image": "images/gb/Viral/453-so-who-is-gay.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -145905,7 +145905,7 @@
       "title": "(Peter) - Kill Yourself",
       "sound": "sounds/gb/Viral/489-peter-kill-yourself.m4a",
       "image": "images/gb/Viral/489-peter-kill-yourself.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -148227,7 +148227,7 @@
       "title": "Hat bc",
       "sound": "sounds/gb/Viral/759-hat-bc.m4a",
       "image": "images/gb/Viral/759-hat-bc.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -148236,7 +148236,7 @@
       "title": "MARIO WTF ARE YOU DOING SMG4 clip",
       "sound": "sounds/gb/Viral/760-mario-wtf-are-you-doing-smg4-clip.m4a",
       "image": "images/gb/Viral/760-mario-wtf-are-you-doing-smg4-clip.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -149874,7 +149874,7 @@
       "title": "Doesn't that make you gay?",
       "sound": "sounds/gb/Viral/945-doesn-t-that-make-you-gay.m4a",
       "image": "images/gb/Viral/945-doesn-t-that-make-you-gay.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -150162,7 +150162,7 @@
       "title": "WTF ¿ESTO ES REAL?",
       "sound": "sounds/gb/Viral/980-wtf-esto-es-real.m4a",
       "image": "images/gb/Viral/980-wtf-esto-es-real.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -150675,7 +150675,7 @@
       "title": "Why should someone be gay",
       "sound": "sounds/gb/Viral/1039-why-should-someone-be-gay.m4a",
       "image": "images/gb/Viral/1039-why-should-someone-be-gay.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -150774,7 +150774,7 @@
       "title": "Terroriser deepthroat",
       "sound": "sounds/gb/Viral/1050-terroriser-deepthroat.m4a",
       "image": "images/gb/Viral/1050-terroriser-deepthroat.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -151143,7 +151143,7 @@
       "title": "nice tits, i mean shot",
       "sound": "sounds/gb/Viral/1091-nice-tits-i-mean-shot.m4a",
       "image": "images/gb/Viral/1091-nice-tits-i-mean-shot.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -151278,7 +151278,7 @@
       "title": "no boobs only eyes",
       "sound": "sounds/gb/Viral/1106-no-boobs-only-eyes.m4a",
       "image": "images/gb/Viral/1106-no-boobs-only-eyes.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "Viral"
     },
@@ -152925,7 +152925,7 @@
       "title": "WAKEUPBITCH from Jexi",
       "sound": "sounds/gb/Whatsapp Audios/194-wakeupbitch-from-jexi.m4a",
       "image": "images/gb/Whatsapp Audios/194-wakeupbitch-from-jexi.webp",
-      "active": false,
+      "active": true,
       "country": "gb",
       "category": "WhatsApp"
     },
@@ -159405,7 +159405,7 @@
       "title": "pakad-mc",
       "sound": "sounds/global/Just Added/646-pakad-mc.m4a",
       "image": "images/global/Just Added/646-pakad-mc.webp",
-      "active": false,
+      "active": true,
       "country": "global",
       "category": "Just Added"
     },
@@ -162285,7 +162285,7 @@
       "title": "Bhaiya bhosdika",
       "sound": "sounds/global/Just Added/970-bhaiya-bhosdika.m4a",
       "image": "images/global/Just Added/970-bhaiya-bhosdika.webp",
-      "active": false,
+      "active": true,
       "country": "global",
       "category": "Just Added"
     },
@@ -163113,7 +163113,7 @@
       "title": "Randi",
       "sound": "sounds/global/Just Added/1062-randi.m4a",
       "image": "images/global/Just Added/1062-randi.webp",
-      "active": false,
+      "active": true,
       "country": "global",
       "category": "Just Added"
     },
@@ -166632,7 +166632,7 @@
       "title": "Holy Boobies!",
       "sound": "sounds/global/Just Added/1457-holy-boobies.m4a",
       "image": "images/global/Just Added/1457-holy-boobies.webp",
-      "active": false,
+      "active": true,
       "country": "global",
       "category": "Just Added"
     },
@@ -167802,7 +167802,7 @@
       "title": "Sawarim Djihad",
       "sound": "sounds/global/Just Added/1587-sawarim-djihad.m4a",
       "image": "images/global/Just Added/1587-sawarim-djihad.webp",
-      "active": false,
+      "active": true,
       "country": "global",
       "category": "Just Added"
     },
@@ -169134,7 +169134,7 @@
       "title": "GAY!!",
       "sound": "sounds/global/Just Added/1736-gay.m4a",
       "image": "images/global/Just Added/1736-gay.webp",
-      "active": false,
+      "active": true,
       "country": "global",
       "category": "Just Added"
     },
@@ -169908,7 +169908,7 @@
       "title": "Aaaah sexy dolor",
       "sound": "sounds/in/Anime & Manga/280-aaaah-sexy-dolor.m4a",
       "image": "images/in/Anime & Manga/280-aaaah-sexy-dolor.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Anime"
     },
@@ -170709,7 +170709,7 @@
       "title": "lavda ki sarkar hai",
       "sound": "sounds/in/Anime & Manga/557-lavda-ki-sarkar-hai.m4a",
       "image": "images/in/Anime & Manga/557-lavda-ki-sarkar-hai.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Anime"
     },
@@ -172518,7 +172518,7 @@
       "title": "Teri ma ka",
       "sound": "sounds/in/Hall of Fame/936-teri-ma-ka.m4a",
       "image": "images/in/Hall of Fame/936-teri-ma-ka.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Hall of Fame"
     },
@@ -172581,7 +172581,7 @@
       "title": "Mahe ky chodo",
       "sound": "sounds/in/Hall of Fame/1132-mahe-ky-chodo.m4a",
       "image": "images/in/Hall of Fame/1132-mahe-ky-chodo.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Hall of Fame"
     },
@@ -172599,7 +172599,7 @@
       "title": "Laudeya",
       "sound": "sounds/in/Hall of Fame/1215-laudeya.m4a",
       "image": "images/in/Hall of Fame/1215-laudeya.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Hall of Fame"
     },
@@ -172770,7 +172770,7 @@
       "title": "gand fat rahi",
       "sound": "sounds/in/Hall of Fame/1446-gand-fat-rahi.m4a",
       "image": "images/in/Hall of Fame/1446-gand-fat-rahi.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Hall of Fame"
     },
@@ -172842,7 +172842,7 @@
       "title": "Boka choda...",
       "sound": "sounds/in/Hall of Fame/1585-boka-choda.m4a",
       "image": "images/in/Hall of Fame/1585-boka-choda.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Hall of Fame"
     },
@@ -172878,7 +172878,7 @@
       "title": "Thaari Bhen Ki Chut Kid Voice",
       "sound": "sounds/in/Hall of Fame/1615-thaari-bhen-ki-chut-kid-voice.m4a",
       "image": "images/in/Hall of Fame/1615-thaari-bhen-ki-chut-kid-voice.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Hall of Fame"
     },
@@ -173355,7 +173355,7 @@
       "title": "Lauda Pakad The Boys",
       "sound": "sounds/in/Movies/134-lauda-pakad-the-boys.m4a",
       "image": "images/in/Movies/134-lauda-pakad-the-boys.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -173445,7 +173445,7 @@
       "title": "Tum chutiya ho",
       "sound": "sounds/in/Movies/163-tum-chutiya-ho.m4a",
       "image": "images/in/Movies/163-tum-chutiya-ho.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -175254,7 +175254,7 @@
       "title": "deadpool and wolverine stfu",
       "sound": "sounds/in/Movies/592-deadpool-and-wolverine-stfu.m4a",
       "image": "images/in/Movies/592-deadpool-and-wolverine-stfu.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -175362,7 +175362,7 @@
       "title": "Negro Please",
       "sound": "sounds/in/Movies/612-negro-please.m4a",
       "image": "images/in/Movies/612-negro-please.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -175974,7 +175974,7 @@
       "title": "Kiryuu Coco - Hey motherfxxkers~",
       "sound": "sounds/in/Movies/719-kiryuu-coco-hey-motherfxxkers.m4a",
       "image": "images/in/Movies/719-kiryuu-coco-hey-motherfxxkers.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -176145,7 +176145,7 @@
       "title": "MotherF*ucker Arnez J.'s Brother",
       "sound": "sounds/in/Movies/747-motherf-ucker-arnez-j-s-brother.m4a",
       "image": "images/in/Movies/747-motherf-ucker-arnez-j-s-brother.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -177891,7 +177891,7 @@
       "title": "3 GAND M",
       "sound": "sounds/in/Movies/1021-3-gand-m.m4a",
       "image": "images/in/Movies/1021-3-gand-m.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -178134,7 +178134,7 @@
       "title": "Gaand na phulao",
       "sound": "sounds/in/Movies/1066-gaand-na-phulao.m4a",
       "image": "images/in/Movies/1066-gaand-na-phulao.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Movies"
     },
@@ -178935,7 +178935,7 @@
       "title": "Músicas de Flauta 9/11",
       "sound": "sounds/in/Music/258-m-sicas-de-flauta-9-11.m4a",
       "image": "images/in/Music/258-m-sicas-de-flauta-9-11.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Music"
     },
@@ -181473,7 +181473,7 @@
       "title": "ultra slow sexy music",
       "sound": "sounds/in/Music/892-ultra-slow-sexy-music.m4a",
       "image": "images/in/Music/892-ultra-slow-sexy-music.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Music"
     },
@@ -188727,7 +188727,7 @@
       "title": "Areeee teri ma ka",
       "sound": "sounds/in/Pranks/124-areeee-teri-ma-ka.m4a",
       "image": "images/in/Pranks/124-areeee-teri-ma-ka.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -188745,7 +188745,7 @@
       "title": "Aii tore mai ki chodo",
       "sound": "sounds/in/Pranks/137-aii-tore-mai-ki-chodo.m4a",
       "image": "images/in/Pranks/137-aii-tore-mai-ki-chodo.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -188916,7 +188916,7 @@
       "title": "bantai chup tmkc",
       "sound": "sounds/in/Pranks/205-bantai-chup-tmkc.m4a",
       "image": "images/in/Pranks/205-bantai-chup-tmkc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -189654,7 +189654,7 @@
       "title": "WTF BOOOOOM",
       "sound": "sounds/in/Pranks/406-wtf-booooom.m4a",
       "image": "images/in/Pranks/406-wtf-booooom.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -190194,7 +190194,7 @@
       "title": "Myko choda",
       "sound": "sounds/in/Pranks/527-myko-choda.m4a",
       "image": "images/in/Pranks/527-myko-choda.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -191760,7 +191760,7 @@
       "title": "Y podemos hacer cosas nazis",
       "sound": "sounds/in/Pranks/775-y-podemos-hacer-cosas-nazis.m4a",
       "image": "images/in/Pranks/775-y-podemos-hacer-cosas-nazis.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -192480,7 +192480,7 @@
       "title": "Gand merecheee",
       "sound": "sounds/in/Pranks/893-gand-merecheee.m4a",
       "image": "images/in/Pranks/893-gand-merecheee.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Pranks"
     },
@@ -193623,7 +193623,7 @@
       "title": "Saiman says kya maa chod raha hai sachi mai",
       "sound": "sounds/in/Reactions/288-saiman-says-kya-maa-chod-raha-hai-sachi-mai.m4a",
       "image": "images/in/Reactions/288-saiman-says-kya-maa-chod-raha-hai-sachi-mai.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Reactions"
     },
@@ -195855,7 +195855,7 @@
       "title": "wtf scary man on the side of road",
       "sound": "sounds/in/Reactions/731-wtf-scary-man-on-the-side-of-road.m4a",
       "image": "images/in/Reactions/731-wtf-scary-man-on-the-side-of-road.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Reactions"
     },
@@ -197124,7 +197124,7 @@
       "title": "Yew Fukking Beetch Fuk Yew",
       "sound": "sounds/in/Reactions/895-yew-fukking-beetch-fuk-yew.m4a",
       "image": "images/in/Reactions/895-yew-fukking-beetch-fuk-yew.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Reactions"
     },
@@ -199563,7 +199563,7 @@
       "title": "lawda lega bsdk",
       "sound": "sounds/in/Sound Effects/741-lawda-lega-bsdk.m4a",
       "image": "images/in/Sound Effects/741-lawda-lega-bsdk.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "SFX"
     },
@@ -199932,7 +199932,7 @@
       "title": "tmkc bkl hai tu",
       "sound": "sounds/in/Sound Effects/822-tmkc-bkl-hai-tu.m4a",
       "image": "images/in/Sound Effects/822-tmkc-bkl-hai-tu.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "SFX"
     },
@@ -201696,7 +201696,7 @@
       "title": "Dont Be gandu",
       "sound": "sounds/in/Sound Effects/1156-dont-be-gandu.m4a",
       "image": "images/in/Sound Effects/1156-dont-be-gandu.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "SFX"
     },
@@ -203460,7 +203460,7 @@
       "title": "Sexy wistle",
       "sound": "sounds/in/Sound Effects/1441-sexy-wistle.m4a",
       "image": "images/in/Sound Effects/1441-sexy-wistle.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "SFX"
     },
@@ -209805,7 +209805,7 @@
       "title": "Sup rise mf",
       "sound": "sounds/in/Television/439-sup-rise-mf.m4a",
       "image": "images/in/Television/439-sup-rise-mf.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "TV"
     },
@@ -210120,7 +210120,7 @@
       "title": "Ha! Gay!",
       "sound": "sounds/in/Television/488-ha-gay.m4a",
       "image": "images/in/Television/488-ha-gay.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "TV"
     },
@@ -210516,7 +210516,7 @@
       "title": "OMG StepBro i'n Stuck",
       "sound": "sounds/in/Television/559-omg-stepbro-i-n-stuck.m4a",
       "image": "images/in/Television/559-omg-stepbro-i-n-stuck.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "TV"
     },
@@ -212145,7 +212145,7 @@
       "title": "I'm f-ing gay",
       "sound": "sounds/in/Television/810-i-m-f-ing-gay.m4a",
       "image": "images/in/Television/810-i-m-f-ing-gay.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "TV"
     },
@@ -213882,7 +213882,7 @@
       "title": "Sexy Ara ara",
       "sound": "sounds/in/Tiktok Trends/374-sexy-ara-ara.m4a",
       "image": "images/in/Tiktok Trends/374-sexy-ara-ara.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "TikTok"
     },
@@ -215061,7 +215061,7 @@
       "title": "É sexo batman eles tão falando de sexo",
       "sound": "sounds/in/Tiktok Trends/631-sexo-batman-eles-t-o-falando-de-sexo.m4a",
       "image": "images/in/Tiktok Trends/631-sexo-batman-eles-t-o-falando-de-sexo.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "TikTok"
     },
@@ -216357,7 +216357,7 @@
       "title": "Lavde ho tum",
       "sound": "sounds/in/Viral/150-lavde-ho-tum.m4a",
       "image": "images/in/Viral/150-lavde-ho-tum.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -216483,7 +216483,7 @@
       "title": "Kaki Tumhi Madarchod ahet",
       "sound": "sounds/in/Viral/189-kaki-tumhi-madarchod-ahet.m4a",
       "image": "images/in/Viral/189-kaki-tumhi-madarchod-ahet.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -216528,7 +216528,7 @@
       "title": "Kajer shomoy reels pathabina madarchod",
       "sound": "sounds/in/Viral/214-kajer-shomoy-reels-pathabina-madarchod.m4a",
       "image": "images/in/Viral/214-kajer-shomoy-reels-pathabina-madarchod.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -216744,7 +216744,7 @@
       "title": "ASAMBHAV BC",
       "sound": "sounds/in/Viral/259-asambhav-bc.m4a",
       "image": "images/in/Viral/259-asambhav-bc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -216753,7 +216753,7 @@
       "title": "builder ke ma ke bhosda",
       "sound": "sounds/in/Viral/261-builder-ke-ma-ke-bhosda.m4a",
       "image": "images/in/Viral/261-builder-ke-ma-ke-bhosda.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -216780,7 +216780,7 @@
       "title": "waiter bsdk",
       "sound": "sounds/in/Viral/266-waiter-bsdk.m4a",
       "image": "images/in/Viral/266-waiter-bsdk.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -217050,7 +217050,7 @@
       "title": "Thodi gand hamse marwalo",
       "sound": "sounds/in/Viral/342-thodi-gand-hamse-marwalo.m4a",
       "image": "images/in/Viral/342-thodi-gand-hamse-marwalo.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -217194,7 +217194,7 @@
       "title": "CID MC",
       "sound": "sounds/in/Viral/386-cid-mc.m4a",
       "image": "images/in/Viral/386-cid-mc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -217410,7 +217410,7 @@
       "title": "maharashtra aye laudeya",
       "sound": "sounds/in/Viral/435-maharashtra-aye-laudeya.m4a",
       "image": "images/in/Viral/435-maharashtra-aye-laudeya.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -217536,7 +217536,7 @@
       "title": "Bantai ko lageli bhookh, chup tmkc",
       "sound": "sounds/in/Viral/460-bantai-ko-lageli-bhookh-chup-tmkc.m4a",
       "image": "images/in/Viral/460-bantai-ko-lageli-bhookh-chup-tmkc.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -217860,7 +217860,7 @@
       "title": "Atharva laude",
       "sound": "sounds/in/Viral/528-atharva-laude.m4a",
       "image": "images/in/Viral/528-atharva-laude.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -218175,7 +218175,7 @@
       "title": "Chal bsdk.1",
       "sound": "sounds/in/Viral/581-chal-bsdk-1.m4a",
       "image": "images/in/Viral/581-chal-bsdk-1.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -221172,7 +221172,7 @@
       "title": "Lund nu chong",
       "sound": "sounds/in/Viral/1111-lund-nu-chong.m4a",
       "image": "images/in/Viral/1111-lund-nu-chong.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -222261,7 +222261,7 @@
       "title": "Niggga coffee",
       "sound": "sounds/in/Viral/1263-niggga-coffee.m4a",
       "image": "images/in/Viral/1263-niggga-coffee.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -222738,7 +222738,7 @@
       "title": "bsdk imran kon",
       "sound": "sounds/in/Viral/1326-bsdk-imran-kon.m4a",
       "image": "images/in/Viral/1326-bsdk-imran-kon.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -223143,7 +223143,7 @@
       "title": "where the f**k do you think you're going",
       "sound": "sounds/in/Viral/1388-where-the-f-k-do-you-think-you-re-going.m4a",
       "image": "images/in/Viral/1388-where-the-f-k-do-you-think-you-re-going.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "Viral"
     },
@@ -223350,7 +223350,7 @@
       "title": "nunu kat denge bsdk",
       "sound": "sounds/in/Whatsapp Audios/22-nunu-kat-denge-bsdk.m4a",
       "image": "images/in/Whatsapp Audios/22-nunu-kat-denge-bsdk.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "WhatsApp"
     },
@@ -224835,7 +224835,7 @@
       "title": "CASHOPO SEXY",
       "sound": "sounds/in/Whatsapp Audios/272-cashopo-sexy.m4a",
       "image": "images/in/Whatsapp Audios/272-cashopo-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "in",
       "category": "WhatsApp"
     },
@@ -227553,7 +227553,7 @@
       "title": "Jihad",
       "sound": "sounds/ru/Anime & Manga/704-jihad.m4a",
       "image": "images/ru/Anime & Manga/704-jihad.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Anime"
     },
@@ -233385,7 +233385,7 @@
       "title": "Fortnite balls I’m gay I like boys",
       "sound": "sounds/ru/Games/860-fortnite-balls-i-m-gay-i-like-boys.m4a",
       "image": "images/ru/Games/860-fortnite-balls-i-m-gay-i-like-boys.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Games"
     },
@@ -252942,7 +252942,7 @@
       "title": "Bring a smart bitch!",
       "sound": "sounds/ru/Movies/1019-bring-a-smart-bitch.m4a",
       "image": "images/ru/Movies/1019-bring-a-smart-bitch.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Movies"
     },
@@ -258387,7 +258387,7 @@
       "title": "Please just STFU Silence",
       "sound": "sounds/ru/Music/1597-please-just-stfu-silence.m4a",
       "image": "images/ru/Music/1597-please-just-stfu-silence.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Music"
     },
@@ -259602,7 +259602,7 @@
       "title": "I Am Gay",
       "sound": "sounds/ru/Politics/372-i-am-gay.m4a",
       "image": "images/ru/Politics/372-i-am-gay.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Politics"
     },
@@ -262851,7 +262851,7 @@
       "title": "Suicide Mouse Scream.avi",
       "sound": "sounds/ru/Pranks/699-suicide-mouse-scream-avi.m4a",
       "image": "images/ru/Pranks/699-suicide-mouse-scream-avi.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Pranks"
     },
@@ -265443,7 +265443,7 @@
       "title": "SURPRISE MF !",
       "sound": "sounds/ru/Reactions/146-surprise-mf.m4a",
       "image": "images/ru/Reactions/146-surprise-mf.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -266811,7 +266811,7 @@
       "title": "Soy Gaaaaaayy! Pluma gay!",
       "sound": "sounds/ru/Reactions/572-soy-gaaaaaayy-pluma-gay.m4a",
       "image": "images/ru/Reactions/572-soy-gaaaaaayy-pluma-gay.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -266829,7 +266829,7 @@
       "title": "Blasphemous WTF Nooooo",
       "sound": "sounds/ru/Reactions/574-blasphemous-wtf-nooooo.m4a",
       "image": "images/ru/Reactions/574-blasphemous-wtf-nooooo.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -267252,7 +267252,7 @@
       "title": "Your are gay button",
       "sound": "sounds/ru/Reactions/664-your-are-gay-button.m4a",
       "image": "images/ru/Reactions/664-your-are-gay-button.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -267657,7 +267657,7 @@
       "title": "stfu",
       "sound": "sounds/ru/Reactions/748-stfu.m4a",
       "image": "images/ru/Reactions/748-stfu.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -267765,7 +267765,7 @@
       "title": "Kys song",
       "sound": "sounds/ru/Reactions/770-kys-song.m4a",
       "image": "images/ru/Reactions/770-kys-song.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -268026,7 +268026,7 @@
       "title": "Sometimes Suicide is Good",
       "sound": "sounds/ru/Reactions/834-sometimes-suicide-is-good.m4a",
       "image": "images/ru/Reactions/834-sometimes-suicide-is-good.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Reactions"
     },
@@ -273219,7 +273219,7 @@
       "title": "You Should Kill Yourself NOW!",
       "sound": "sounds/ru/Sound Effects/1544-you-should-kill-yourself-now.m4a",
       "image": "images/ru/Sound Effects/1544-you-should-kill-yourself-now.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "SFX"
     },
@@ -273741,7 +273741,7 @@
       "title": "Yeah Hoe",
       "sound": "sounds/ru/Sound Effects/1629-yeah-hoe.m4a",
       "image": "images/ru/Sound Effects/1629-yeah-hoe.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "SFX"
     },
@@ -276306,7 +276306,7 @@
       "title": "Anime Intro 18+",
       "sound": "sounds/ru/Television/280-anime-intro-18.m4a",
       "image": "images/ru/Television/280-anime-intro-18.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "TV"
     },
@@ -283299,7 +283299,7 @@
       "title": "tyler is gay",
       "sound": "sounds/ru/Tiktok Trends/1033-tyler-is-gay.m4a",
       "image": "images/ru/Tiktok Trends/1033-tyler-is-gay.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "TikTok"
     },
@@ -284874,7 +284874,7 @@
       "title": "Niggger niggger",
       "sound": "sounds/ru/Tiktok Trends/1340-niggger-niggger.m4a",
       "image": "images/ru/Tiktok Trends/1340-niggger-niggger.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "TikTok"
     },
@@ -285495,7 +285495,7 @@
       "title": "WHAT THE F**K IS GOING ON",
       "sound": "sounds/ru/Viral/348-what-the-f-k-is-going-on.m4a",
       "image": "images/ru/Viral/348-what-the-f-k-is-going-on.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Viral"
     },
@@ -285891,7 +285891,7 @@
       "title": "hey this mf got them fake j's!11!!11111",
       "sound": "sounds/ru/Viral/483-hey-this-mf-got-them-fake-j-s-11-11111.m4a",
       "image": "images/ru/Viral/483-hey-this-mf-got-them-fake-j-s-11-11111.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Viral"
     },
@@ -287664,7 +287664,7 @@
       "title": "Dad, I’m Gay!",
       "sound": "sounds/ru/Viral/875-dad-i-m-gay.m4a",
       "image": "images/ru/Viral/875-dad-i-m-gay.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Viral"
     },
@@ -287673,7 +287673,7 @@
       "title": "OH hell no man WTF!",
       "sound": "sounds/ru/Viral/878-oh-hell-no-man-wtf.m4a",
       "image": "images/ru/Viral/878-oh-hell-no-man-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Viral"
     },
@@ -287691,7 +287691,7 @@
       "title": "f**k off peppa",
       "sound": "sounds/ru/Viral/880-f-k-off-peppa.m4a",
       "image": "images/ru/Viral/880-f-k-off-peppa.webp",
-      "active": false,
+      "active": true,
       "country": "ru",
       "category": "Viral"
     },
@@ -290310,7 +290310,7 @@
       "title": "Frieren - Kill Yourself",
       "sound": "sounds/us/Anime & Manga/746-frieren-kill-yourself.m4a",
       "image": "images/us/Anime & Manga/746-frieren-kill-yourself.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Anime"
     },
@@ -290589,7 +290589,7 @@
       "title": "Wtf am i doing now with FNAF",
       "sound": "sounds/us/Anime & Manga/867-wtf-am-i-doing-now-with-fnaf.m4a",
       "image": "images/us/Anime & Manga/867-wtf-am-i-doing-now-with-fnaf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Anime"
     },
@@ -291066,7 +291066,7 @@
       "title": "(•‿•) u r gay (•‿•)",
       "sound": "sounds/us/Anime & Manga/1016-u-r-gay.m4a",
       "image": "images/us/Anime & Manga/1016-u-r-gay.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Anime"
     },
@@ -292308,7 +292308,7 @@
       "title": "I am going to Kermit Suicide",
       "sound": "sounds/us/Anime & Manga/1357-i-am-going-to-kermit-suicide.m4a",
       "image": "images/us/Anime & Manga/1357-i-am-going-to-kermit-suicide.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Anime"
     },
@@ -292380,7 +292380,7 @@
       "title": "Minato Aqua - WTF",
       "sound": "sounds/us/Anime & Manga/1372-minato-aqua-wtf.m4a",
       "image": "images/us/Anime & Manga/1372-minato-aqua-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Anime"
     },
@@ -294405,7 +294405,7 @@
       "title": "sebastian solace kys loud",
       "sound": "sounds/us/Games/1274-sebastian-solace-kys-loud.m4a",
       "image": "images/us/Games/1274-sebastian-solace-kys-loud.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Games"
     },
@@ -295539,7 +295539,7 @@
       "title": "Take This MF",
       "sound": "sounds/us/Games/1669-take-this-mf.m4a",
       "image": "images/us/Games/1669-take-this-mf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Games"
     },
@@ -295953,7 +295953,7 @@
       "title": "you should kill yourself now",
       "sound": "sounds/us/Hall Of Fame/1380-you-should-kill-yourself-now.m4a",
       "image": "images/us/Hall Of Fame/1380-you-should-kill-yourself-now.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Hall Of Fame"
     },
@@ -296934,7 +296934,7 @@
       "title": "GAY-",
       "sound": "sounds/us/Memes/959-gay.m4a",
       "image": "images/us/Memes/959-gay.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Memes"
     },
@@ -297924,7 +297924,7 @@
       "title": "GG F**king EZ",
       "sound": "sounds/us/Memes/1318-gg-f-king-ez.m4a",
       "image": "images/us/Memes/1318-gg-f-king-ez.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Memes"
     },
@@ -298068,7 +298068,7 @@
       "title": "shut your niggy",
       "sound": "sounds/us/Memes/1354-shut-your-niggy.m4a",
       "image": "images/us/Memes/1354-shut-your-niggy.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Memes"
     },
@@ -298941,7 +298941,7 @@
       "title": "Ayo WTF?!, no background",
       "sound": "sounds/us/Memes/1577-ayo-wtf-no-background.m4a",
       "image": "images/us/Memes/1577-ayo-wtf-no-background.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Memes"
     },
@@ -301209,7 +301209,7 @@
       "title": "STFU Christ is Lord",
       "sound": "sounds/us/Movies/1010-stfu-christ-is-lord.m4a",
       "image": "images/us/Movies/1010-stfu-christ-is-lord.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Movies"
     },
@@ -304449,7 +304449,7 @@
       "title": "Rod Wave Heart On Ice Gay Version",
       "sound": "sounds/us/Music/1027-rod-wave-heart-on-ice-gay-version.m4a",
       "image": "images/us/Music/1027-rod-wave-heart-on-ice-gay-version.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Music"
     },
@@ -305565,7 +305565,7 @@
       "title": "Let's get retard3d",
       "sound": "sounds/us/Music/1380-let-s-get-retard3d.m4a",
       "image": "images/us/Music/1380-let-s-get-retard3d.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Music"
     },
@@ -306834,7 +306834,7 @@
       "title": "LULA ‐ sem dente e ainda negro",
       "sound": "sounds/us/Politics/425-lula-sem-dente-e-ainda-negro.m4a",
       "image": "images/us/Politics/425-lula-sem-dente-e-ainda-negro.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Politics"
     },
@@ -307851,7 +307851,7 @@
       "title": "Hoes mad",
       "sound": "sounds/us/Politics/701-hoes-mad.m4a",
       "image": "images/us/Politics/701-hoes-mad.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Politics"
     },
@@ -308454,7 +308454,7 @@
       "title": "Cadê a PORRA da Varandinha do Pum",
       "sound": "sounds/us/Politics/826-cad-a-porra-da-varandinha-do-pum.m4a",
       "image": "images/us/Politics/826-cad-a-porra-da-varandinha-do-pum.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Politics"
     },
@@ -309660,7 +309660,7 @@
       "title": "Damares - Beijo gay (Frozen)",
       "sound": "sounds/us/Politics/999-damares-beijo-gay-frozen.m4a",
       "image": "images/us/Politics/999-damares-beijo-gay-frozen.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Politics"
     },
@@ -311028,7 +311028,7 @@
       "title": "heil minion",
       "sound": "sounds/us/Politics/1196-heil-minion.m4a",
       "image": "images/us/Politics/1196-heil-minion.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Politics"
     },
@@ -313422,7 +313422,7 @@
       "title": "that n*gga mega gay",
       "sound": "sounds/us/Pranks/721-that-n-gga-mega-gay.m4a",
       "image": "images/us/Pranks/721-that-n-gga-mega-gay.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Pranks"
     },
@@ -313971,7 +313971,7 @@
       "title": "Gay Truckers",
       "sound": "sounds/us/Pranks/916-gay-truckers.m4a",
       "image": "images/us/Pranks/916-gay-truckers.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Pranks"
     },
@@ -314151,7 +314151,7 @@
       "title": "fag nga",
       "sound": "sounds/us/Pranks/968-fag-nga.m4a",
       "image": "images/us/Pranks/968-fag-nga.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Pranks"
     },
@@ -315411,7 +315411,7 @@
       "title": "Sum Ting Wong, Wi Tu Lo, Ho Li Fuk, Bang Ding Ow",
       "sound": "sounds/us/Pranks/1264-sum-ting-wong-wi-tu-lo-ho-li-fuk-bang-ding-ow.m4a",
       "image": "images/us/Pranks/1264-sum-ting-wong-wi-tu-lo-ho-li-fuk-bang-ding-ow.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Pranks"
     },
@@ -317004,7 +317004,7 @@
       "title": "They don't know WTF they're doing - Trump",
       "sound": "sounds/us/Reactions/685-they-don-t-know-wtf-they-re-doing-trump.m4a",
       "image": "images/us/Reactions/685-they-don-t-know-wtf-they-re-doing-trump.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -318075,7 +318075,7 @@
       "title": "Nasty Girl/Tranny",
       "sound": "sounds/us/Reactions/974-nasty-girl-tranny.m4a",
       "image": "images/us/Reactions/974-nasty-girl-tranny.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -318210,7 +318210,7 @@
       "title": "Angry Grandma WTF",
       "sound": "sounds/us/Reactions/1003-angry-grandma-wtf.m4a",
       "image": "images/us/Reactions/1003-angry-grandma-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -318543,7 +318543,7 @@
       "title": "She made beans bruh wtf",
       "sound": "sounds/us/Reactions/1066-she-made-beans-bruh-wtf.m4a",
       "image": "images/us/Reactions/1066-she-made-beans-bruh-wtf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -318804,7 +318804,7 @@
       "title": "Jack Black Y3w Fukklng Bltch!!",
       "sound": "sounds/us/Reactions/1117-jack-black-y3w-fukklng-bltch.m4a",
       "image": "images/us/Reactions/1117-jack-black-y3w-fukklng-bltch.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -319659,7 +319659,7 @@
       "title": "STFU Josh",
       "sound": "sounds/us/Reactions/1304-stfu-josh.m4a",
       "image": "images/us/Reactions/1304-stfu-josh.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -319803,7 +319803,7 @@
       "title": "Game Grumps - Poopy Ass Dicks",
       "sound": "sounds/us/Reactions/1329-game-grumps-poopy-ass-dicks.m4a",
       "image": "images/us/Reactions/1329-game-grumps-poopy-ass-dicks.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -320091,7 +320091,7 @@
       "title": "fucccckfckfckfckfck",
       "sound": "sounds/us/Reactions/1380-fucccckfckfckfckfck.m4a",
       "image": "images/us/Reactions/1380-fucccckfckfckfckfck.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -320298,7 +320298,7 @@
       "title": "ZYZZ WTF BRAH",
       "sound": "sounds/us/Reactions/1411-zyzz-wtf-brah.m4a",
       "image": "images/us/Reactions/1411-zyzz-wtf-brah.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Reactions"
     },
@@ -321414,7 +321414,7 @@
       "title": "Mustard on the beat hoe",
       "sound": "sounds/us/Sound Effects/1223-mustard-on-the-beat-hoe.m4a",
       "image": "images/us/Sound Effects/1223-mustard-on-the-beat-hoe.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "SFX"
     },
@@ -323034,7 +323034,7 @@
       "title": "Go birds dickhead",
       "sound": "sounds/us/Sports/176-go-birds-dickhead.m4a",
       "image": "images/us/Sports/176-go-birds-dickhead.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Sports"
     },
@@ -328002,7 +328002,7 @@
       "title": "(hola) daia chodiel",
       "sound": "sounds/us/Sports/1182-hola-daia-chodiel.m4a",
       "image": "images/us/Sports/1182-hola-daia-chodiel.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Sports"
     },
@@ -329640,7 +329640,7 @@
       "title": "Don’t be racist i am a building 9/11 version",
       "sound": "sounds/us/Television/591-don-t-be-racist-i-am-a-building-9-11-version.m4a",
       "image": "images/us/Television/591-don-t-be-racist-i-am-a-building-9-11-version.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TV"
     },
@@ -333069,7 +333069,7 @@
       "title": "ITYSL - Nude Egg",
       "sound": "sounds/us/Television/1316-itysl-nude-egg.m4a",
       "image": "images/us/Television/1316-itysl-nude-egg.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TV"
     },
@@ -333366,7 +333366,7 @@
       "title": "Uncle Ruckus: Stfu",
       "sound": "sounds/us/Television/1371-uncle-ruckus-stfu.m4a",
       "image": "images/us/Television/1371-uncle-ruckus-stfu.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TV"
     },
@@ -333438,7 +333438,7 @@
       "title": "Kurt Angle Bestiality Sexx",
       "sound": "sounds/us/Television/1381-kurt-angle-bestiality-sexx.m4a",
       "image": "images/us/Television/1381-kurt-angle-bestiality-sexx.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TV"
     },
@@ -334131,7 +334131,7 @@
       "title": "Tia Paola negro",
       "sound": "sounds/us/Tiktok Trends/499-tia-paola-negro.m4a",
       "image": "images/us/Tiktok Trends/499-tia-paola-negro.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TikTok"
     },
@@ -336345,7 +336345,7 @@
       "title": "Yo Soy Sexy!",
       "sound": "sounds/us/Tiktok Trends/1268-yo-soy-sexy.m4a",
       "image": "images/us/Tiktok Trends/1268-yo-soy-sexy.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TikTok"
     },
@@ -336804,7 +336804,7 @@
       "title": "oh my god bro oh heII nah man wtf man",
       "sound": "sounds/us/Tiktok Trends/1354-oh-my-god-bro-oh-heii-nah-man-wtf-man.m4a",
       "image": "images/us/Tiktok Trends/1354-oh-my-god-bro-oh-heii-nah-man-wtf-man.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "TikTok"
     },
@@ -337335,7 +337335,7 @@
       "title": "Im Not Gay No More!",
       "sound": "sounds/us/Viral/495-im-not-gay-no-more.m4a",
       "image": "images/us/Viral/495-im-not-gay-no-more.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Viral"
     },
@@ -337650,7 +337650,7 @@
       "title": "Make peace with your god mf",
       "sound": "sounds/us/Viral/633-make-peace-with-your-god-mf.m4a",
       "image": "images/us/Viral/633-make-peace-with-your-god-mf.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Viral"
     },
@@ -340098,7 +340098,7 @@
       "title": "I Got News For You, You're Gay",
       "sound": "sounds/us/Viral/1287-i-got-news-for-you-you-re-gay.m4a",
       "image": "images/us/Viral/1287-i-got-news-for-you-you-re-gay.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "Viral"
     },
@@ -345201,7 +345201,7 @@
       "title": "sexiwo",
       "sound": "sounds/us/Whatsapp Audios/710-sexiwo.m4a",
       "image": "images/us/Whatsapp Audios/710-sexiwo.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "WhatsApp"
     },
@@ -347262,7 +347262,7 @@
       "title": "negros entran a una casa a robar",
       "sound": "sounds/us/Whatsapp Audios/980-negros-entran-a-una-casa-a-robar.m4a",
       "image": "images/us/Whatsapp Audios/980-negros-entran-a-una-casa-a-robar.webp",
-      "active": false,
+      "active": true,
       "country": "us",
       "category": "WhatsApp"
     },
